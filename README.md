@@ -1,1 +1,2 @@
 # ICT-Embedded-Smart-Sustainable-Premises-Management
+Led a project analyzing diverse datasets, visualizing data, and executing SQL queries for multifaceted operations. Demonstrated the integration of technology and sustainability across six key areas of premises some of them are : Safety and Security, IoT Embedded Smart Environment, Risk Management Space Management, Waste Management, Energy Efficiency and many more.
